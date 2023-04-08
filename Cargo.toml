@@ -9,7 +9,7 @@ name = "two_sum"
 path = "src/two_sum/main.rs"
 
 [[bin]]
-name = "sample"
-path = "src/sample/main.rs"
+name = "arranging_coins"
+path = "src/arranging_coins/main.rs"
 
 [dependencies]
